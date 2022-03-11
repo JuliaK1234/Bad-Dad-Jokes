@@ -1,0 +1,53 @@
+button {
+  background-color: #79ddf7;
+  color: black;
+  border: 0px;
+  border-radius: 5px;
+  width: 25%;
+  height: 50px;
+  font-family: fantasy;
+}
+button:hover {
+  background-color: #30156f;
+  transition: 2s;
+  cursor: pointer;
+}
+
+header {
+  background-color: black;
+  color: white;
+  position: sticky;
+  text-align: center;
+}
+
+.footer {
+  background: black;
+  text-align: center;
+  color: white;
+}
+
+.container {
+  text-align: center;
+  padding: 5%;
+}
+
+.container-fluid {
+  padding: 0px;
+}
+
+h1,
+h2,
+p,
+h3,
+small {
+  font-family: fantasy;
+}
+
+.text {
+  padding: 10%;
+  color: black;
+}
+
+body {
+  background-color: pink;
+}
